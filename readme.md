@@ -302,6 +302,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-*Happy Data Exploring!* 🎉  Laxman Khedkar 
+*Happy Data Exploring!* 🎉  Laxman B Khedkar 
 
 "# Airbnb_Data_Analysis_EDA" 
