@@ -1,7 +1,5 @@
 # Airbnb Data Analysis 🏡📊
 
-**Author**: Laxman Khedkar
-
 ---                          
 
 ## 🚀 Project Overview
@@ -288,7 +286,23 @@ Contributions are welcome! Feel free to:
 - Add advanced visualizations or modeling pipelines.
 
 ---
+## 💻 Tech Stack  
 
+- **Language:** Python  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Environment:** Jupyter Notebook  
+
+---
+
+## 🏆 About the Author  
+
+👨‍💻 **Laxman Bhimrao Khedkar**  
+🎓 Computer Engineering Graduate | Aspiring Data Analyst / Data Scientist  
+
+📧 **Email:** [khedkarlaxman823@gmail.com](mailto:khedkarlaxman823@gmail.com)  
+🔗 **Portfolio:** [beacons.ai/laxmankhedkar](https://beacons.ai/laxmankhedkar)  
+💼 **LinkedIn:** [linkedin.com/in/laxman-khedkar](https://www.linkedin.com/in/laxman-khedkar)  
+🐙 **GitHub:** [github.com/Laxman7744](https://github.com/Laxman7744)  
 ## ⚖️ License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
